@@ -1,0 +1,3 @@
+- video mengenai js
+- video mengenai php framework
+- buat blog
