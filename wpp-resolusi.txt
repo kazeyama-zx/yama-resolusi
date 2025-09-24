@@ -1,4 +1,4 @@
 WPP RESOLUSI
 - Konsisten membuat project sebanyak lebih dari 1 dalam seminggu
 - Mempelajari konsep atau teknologi baru sebanyak mungkin
-- melakukan integrasi antar konsep yang saling berhubungan
+- Manage log sebaik mungkin
