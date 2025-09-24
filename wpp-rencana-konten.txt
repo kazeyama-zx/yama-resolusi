@@ -1,4 +1,7 @@
 - video mengenai js
   - ES6+
+  - Framework JS
+    - vue
 - video mengenai php framework
 - buat blog
+- pythom
