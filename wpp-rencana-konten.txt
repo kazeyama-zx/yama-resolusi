@@ -1,3 +1,4 @@
 - video mengenai js
+  - ES6+
 - video mengenai php framework
 - buat blog
